@@ -1,4 +1,3 @@
-### Hello! Welcome to my profile! 👋
 
 <!--
 **fcneto92/fcneto92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,3 +17,9 @@ Here are some ideas to get you started:
 # Francisco Corrêa Neto :man_technologist:
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/francisco-corr%C3%AAa-neto-918794150/)](https://www.linkedin.com/in/francisco-corr%C3%AAa-neto-918794150/)
+
+
+### Hello! Welcome to my profile! 👋
+
+- 🌱 I’m currently learning about JAVA frameworks
+
